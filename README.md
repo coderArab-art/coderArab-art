@@ -9,7 +9,7 @@ I'm an aspiring developer on a mission to master backend development using Java.
 - 🔜 Upcoming: HTML, CSS, REST APIs
 
 ## 🛠️ Projects
-- 🇦🇪 Arabic CV Generator
+- 🇵🇸🇩🇿Arabic CV Generator
 - ⚙️ Java CLI mini apps
 - 🔭 Planning to create smart tools using AI
 
