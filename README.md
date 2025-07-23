@@ -14,7 +14,7 @@
 - عندي خبرة في **الانحدار الخطي** و**اللوجستي** باستخدام `Scikit-learn`
 - أبرمج بلغة **Python** و**Java**، وأفهم مفاهيم **OOP**
 - أنشأت مواقع بسيطة باستخدام HTML/CSS/JS على GitHub Pages
-- أدمج أسلوبي الفني والأنمي في واجهاتي
+- 
 
 ---
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 🎴 أنمي يمثلني:
+
 
 <p align="center">
   <img src="https://media.tenor.com/wLFJYl4Vm9sAAAAd/programming-anime.gif" width="300" />
@@ -58,9 +58,9 @@
 
 ## 📫 تواصل معي:
 
-- 📧 البريد الإلكتروني: `yourmail@example.com`
-- 🐦 تويتر: [@yourusername](https://twitter.com/yourusername)
-- 📸 إنستغرام: [@yourusername](https://instagram.com/yourusername)
+- 📧 البريد الإلكتروني ibrahimboukria0@gmail.com`
+- 🐦 تويتر:[https://x.com/AIBRAHIM_AI?s=09](https://twitter.com/yourusername)
+- 📸 إنستغرام:https://www.instagram.com/iiibrah[im08
 
 ---
 
