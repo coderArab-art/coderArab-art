@@ -4,7 +4,7 @@
 
 # 👋 Welcome to My Profile
 
-### 💻 Front-End Developer | 🧠 Machine Learning Learner | 🎌 Anime Inspired
+### 💻 Back-End Developer | 🧠 Machine Learning Learner | 🎌 Anime Inspired
 
 ---
 
