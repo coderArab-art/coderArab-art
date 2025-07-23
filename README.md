@@ -1,36 +1,35 @@
 <p align="center">
-  <img src="https://media.tenor.com/zeNcJ9itS9IAAAAd/anime-anime-boy.gif" width="200" height="200">
+  <img src="https://i.pinimg.com/originals/7e/c6/25/7ec62542f643fc3e849d07b12ab9bb1c.gif" width="350" height="350" />
 </p>
 
-# 👋 Welcome to My Profile
+# 💻 Backend Developer | Java Enthusiast | AI Aspirant
 
-### 💻 Back-End Developer | 🧠 Machine Learning Learner | 🎌 Anime Inspired
-
----
-
-## 🧠 من أنا:
-
-- أتعلم البرمجة والذكاء الاصطناعي بعمق
-- عندي خبرة في **الانحدار الخطي** و**اللوجستي** باستخدام `Scikit-learn`
-- أبرمج بلغة **Python** و**Java**، وأفهم مفاهيم **OOP**
-- أنشأت مواقع بسيطة باستخدام HTML/CSS/JS على GitHub Pages
-- 
+### 🧠 Passionate about Backend Technologies | Focused on Java, APIs, Databases | Always learning!
 
 ---
 
-## 🛠️ المهارات والأدوات:
+## 🔧 Tools & Technologies:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![OOP](https://img.shields.io/badge/OOP-Principles-purple)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧑‍💻 About Me:
+
+- Backend Developer focused on **Java**, **Databases**, and **APIs**.
+- Passionate about building scalable and efficient back-end systems.
+- Constantly learning and improving skills in **Java** and **machine learning**.
+- **AI enthusiast** exploring the future of smart applications.
+  
+---
+
+## 📊 GitHub Stats:
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderArab-art&show_icons=true&theme=tokyonight)
 
@@ -38,32 +37,34 @@
 
 ---
 
-## 🌐 مشاريعي:
+## 🌟 Connect with Me:
 
-| المشروع | التقنية | الرابط |
-|---------|----------|--------|
-| Landing Page Anime | HTML/CSS | [🔗 رابط](https://github.com/coderArab-art/landing-page-anime) |
-| Calculator Simple | JavaScript | [🔗 رابط](https://github.com/coderArab-art/calculator) |
-| ML Linear/Logistic | Python | [🔗 رابط](https://github.com/coderArab-art/ml-models) |
+- 📧 **Email**: [Ibrahimboukria0@gmail.com](mailto:Ibrahimboukria0@gmail.com)
+- 📸 **Instagram**: [@iiibrahim08](https://www.instagram.com/iiibrahim08)
+- 🐦 **X**: [@AIBRAHIM_AI](https://x.com/AIBRAHIM_AI?s=09)
+- 📘 **Facebook**: [Ibrahim Boukriaa](https://www.facebook.com/ibrahim.boukriaa)
 
 ---
 
-
+## 🎴 Anime Fan
 
 <p align="center">
-  <img src="https://media.tenor.com/wLFJYl4Vm9sAAAAd/programming-anime.gif" width="300" />
+  <img src="https://media.tenor.com/TfN9t_2keTQAAAAd/one-piece-anime.gif" width="300" height="300"/>
 </p>
 
 ---
 
-## 📫 تواصل معي:
+## 💬 Motivational Quote:
 
-- 📧 البريد الإلكتروني ibrahimboukria0@gmail.com`
-- 🐦 تويتر:[https://x.com/AIBRAHIM_AI?s=09](https://twitter.com/yourusername)
-- 📸 إنستغرام:https://www.instagram.com/iiibrah[im08
+> "Backend development is the invisible backbone of every application. Build it right, and it will shine on its own."  
+> *- coderArab-art*
 
 ---
 
-## ✨ اقتباسي المفضل:
+## 🧠 Shiny Badges:
 
-> "تعلم البرمجة كأنك تبني سيفك، ولا تتوقف حتى يلمع ⚔️"
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+![AI](https://img.shields.io/badge/-AI-green?style=flat-square&logo=tensorflow)
