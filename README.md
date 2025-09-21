@@ -1,52 +1,99 @@
-<!-- صورة أنمي للزينة -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/2f/7f/80/2f7f80d222be22660c6d80b2f5cd1696.gif" width="250"/>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ibrahim Boukriaa | Front-End Developer</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f9fc;
+      color: #333;
+    }
 
-<h1 align="center">Welcome to My Backend World 👨‍💻</h1>
+    header {
+      background-color: #2c3e50;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer%20%F0%9F%94%A5;AI%20Explorer%20%F0%9F%A7%9C%F0%9F%8F%BB%E2%99%82%EF%B8%8F;Python%20%7C%20Java%20%7C%20OOP%20Lover&center=true&size=22">
-</p>
+    section {
+      max-width: 800px;
+      margin: auto;
+      padding: 2rem;
+    }
 
----
+    h1, h2 {
+      color: #2c3e50;
+    }
 
-### 🧠 Who Am I?
+    ul {
+      padding-left: 1.2rem;
+    }
 
-- 🎓 Backend Developer specialized in **Java**
-- 🤖 AI & ML enthusiast: trained on **Linear** and **Logistic Regression** using:
-  - 🐍 `Python`
-  - 🧮 `NumPy`, `Pandas`
-  - 📊 `Scikit-learn`
-- 👨‍💻 Practicing **OOP** in Java
-- 🌍 Building basic backend apps hosted on GitHub
+    .contact a {
+      color: #2980b9;
+      text-decoration: none;
+    }
 
----
+    .contact a:hover {
+      text-decoration: underline;
+    }
 
-### 🚀 Tech Stack
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #999;
+    }
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+    @media (max-width: 600px) {
+      section {
+        padding: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
 
----
+  <header>
+    <h1>Ibrahim Boukriaa</h1>
+    <p>Front-End Developer</p>
+  </header>
 
-### 📫 Connect With Me
+  <section>
+    <h2>📞 Contact</h2>
+    <ul class="contact">
+      <li>Email: <a href="mailto:Ibrahimthgji@gmail.com">Ibrahimthgji@gmail.com</a></li>
+      <li>Phone: <a href="tel:+213555979315">+213 555 97 93 15</a></li>
+      <li>GitHub: <a href="[Your_GitHub_Link]" target="_blank">[Add your GitHub profile link]</a></li>
+    </ul>
 
-<p align="center">
-  <a href="mailto:Ibrahimboukria0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/iiibrahim08"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://x.com/AIBRAHIM_AI?s=09"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.facebook.com/ibrahim.boukriaa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
+    <h2>👨‍💻 Professional Summary</h2>
+    <p>A creative and motivated Front-End Developer with a passion for building beautiful, responsive, and user-friendly web interfaces. I focus on combining clean design with seamless functionality and am constantly seeking to improve my skills to deliver modern, high-quality solutions.</p>
 
----
+    <h2>🛠 Core Skills</h2>
+    <ul>
+      <li>Languages: HTML5, CSS3, JavaScript</li>
+      <li>Tools & Technologies: Git, Bootstrap, Sass, Figma</li>
+      <li>Design: Responsive Web Design, Cross-Browser Compatibility</li>
+      <li>Soft Skills: Problem-Solving, Teamwork, Time Management</li>
+    </ul>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderArab-art&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderArab-art&theme=radical" width="47%" />
-</p>
+    <h2>🌐 Languages</h2>
+    <ul>
+      <li>Arabic: Native</li>
+      <li>English: Proficient</li>
+      <li>French: Proficient</li>
+    </ul>
+  </section>
+
+  <footer>
+    &copy; 2025 Ibrahim Boukriaa. All rights reserved.
+  </footer>
+
+</body>
+</html>
